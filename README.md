@@ -1,2 +1,5 @@
 # zzx
-it's designed by zzk and wx
+---
+## A WxApp for shopping with rebate.
+---
+Designed by wx and zzk
