@@ -15,4 +15,5 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-Route::get('demo','DemoController@index');
+// 拼多多
+Route::get('/pdd/goods/list','PinDuoDuo\GoodsController@list');    //商品列表
